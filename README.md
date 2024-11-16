@@ -176,5 +176,3 @@ git daemon --verbose --export-all --base-path=.
 ````
 КІНЕЦЬ
 ````
-
-## Дата здачі - 27.08.2024
